@@ -1,0 +1,2 @@
+INSERT INTO user VALUES (0, 12345, now(), TRUE);
+
